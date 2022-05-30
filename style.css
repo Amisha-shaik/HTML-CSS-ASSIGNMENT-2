@@ -1,0 +1,38 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100;
+    background-image: url(unnamed.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.main img{
+    width: 30%;
+    height: 93vh;
+    padding-left: 70px;
+    padding-top: 105px;
+}
+.content{
+    width: 1500px;
+    font-size: 100px;
+    padding-left: 700px;
+    padding-top:10px;
+    height: auto;
+    position: relative;
+    margin: auto;
+}
+.content h5{
+    width: 1500px;
+    font-size: 150px;
+    letter-spacing: 1px;
+    margin-bottom: 3px;
+    padding-bottom: 10h;
+
+}
+
+
+
