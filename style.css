@@ -15,15 +15,19 @@
     height: 93vh;
     padding-left: 70px;
     padding-top: 105px;
+    border-radius: 130px;
 }
 .content{
-    width: 1500px;
+    width: 4000px;
     font-size: 100px;
     padding-left: 700px;
-    padding-top:10px;
-    height: auto;
+    padding-top:-200px;
+    height: 20vh;
     position: relative;
-    margin: auto;
+    margin-left: 1700px;
+    margin-top:-2300px;
+    color: white;
+    
 }
 .content h5{
     width: 1500px;
@@ -31,8 +35,36 @@
     letter-spacing: 1px;
     margin-bottom: 3px;
     padding-bottom: 10h;
-
+    color: white;
+    margin-top: -160px;
+    margin-left: 98px;
 }
+.content h1{
+    width: 1500px;
+    font-size: 200px;
+    letter-spacing: 1px;
+    margin-bottom: 220px;
+    padding-bottom: 11h;
+    color: orangered;
+}
+.content par{
+    letter-spacing: 1px;
+    width: -400px;
+    font-size: 40px;
+    margin-top: 18px;
+    }
+
+ .content button{
+    width: 1000px;
+    height: 180px;
+    border: 2px solid rgb(152, 100, 23);
+    font-size: 50px;
+    border-radius: 100px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    margin-left: 5px;
+}    
 
 
-
+    
