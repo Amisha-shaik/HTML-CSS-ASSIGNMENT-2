@@ -65,6 +65,42 @@
     cursor: pointer;
     margin-left: 5px;
 }    
+.nav{
+    width: 160px;
+    height:80vh;
+    float: right;
+    margin-right: 80px;
+    margin-top: -3000px;
+}
+.fa-lightbulb{
+    color: white;
+    font-size: 100px;
+    margin-top: 100px;
+}
 
+.fa-house-chimney{
+    color: white;
+     font-size: 100px;
+     margin-top: 350px;
+}
+.fa-user{
+    color: white;
+    font-size: 100px;
+    margin-top: 120px;
 
-    
+}
+.fa-briefcase{
+    color: white;
+    font-size: 100px;
+    margin-top: 120px;
+}
+.fa-envelope-open{
+    color:white;
+    font-size: 100px;
+    margin-top: 120px;
+}
+.fa-comments{
+    color: white;
+    font-size: 100px;
+    margin-top: 120px;
+}
